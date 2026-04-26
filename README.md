@@ -18,7 +18,7 @@ Caso tenha caido aqui da DIO, procure o projeto correspondente abaixo 👇
 
 ---
 
-## 🚀 Flutter Specialist
+## 🎯 Flutter Specialist
 - [flutter_demo](https://gitea.phpense.com/DIO/flutter_demo)
 
 ## 💎 Ruby Developer
