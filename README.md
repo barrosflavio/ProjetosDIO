@@ -3,6 +3,7 @@
 Este repositório serve como um **índice central** dos meus projetos e desafios da DIO.
 
 Para manter meu GitHub limpo e organizado, os projetos estão hospedados no meu Gitea ("Github" self-hosted).
+
 Como a DIO não aceita links GIT de terceiros diretamente, utilizo este repositório como ponte.
 
 Basta olhar a lista, clicar no link e acessar normalmente. 🚀
