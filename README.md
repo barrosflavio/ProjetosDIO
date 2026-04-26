@@ -6,15 +6,14 @@ Para manter meu GitHub limpo e organizado, os projetos estão hospedados no meu 
 
 Como a DIO não aceita links GIT de terceiros diretamente, utilizo este repositório como ponte.
 
-Basta olhar a lista, clicar no link e acessar normalmente. 🚀
-
 ---
 
 ## ⚠️ Aviso
 Caso tenha caido aqui da DIO, procure o projeto correspondente abaixo 👇
-- 💡DICA:  Use CTRL + F para buscar palavras nessa página.
+- Basta olhar a lista, clicar no link e acessar normalmente. 🚀
+- **💡DICA:  Use CTRL + F para buscar palavras nessa página.**
 
-#GithubSemTralha
+*#GithubSemTralha*
 
 ---
 
