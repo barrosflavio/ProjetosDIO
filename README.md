@@ -10,3 +10,6 @@ Este repositório apenas irá INDEXAR os links do meu Gitea ("Github" Selfhosted
 ## Go Developer
 - ebulicao_go: https://gitea.phpense.com/DIO/ebulicao_go
 - desafios_dio_2_3_golang: https://gitea.phpense.com/DIO/desafios_dio_2_3_golang
+- ping_pong_golang: https://gitea.phpense.com/DIO/ping_pong_golang
+- api_simples_go: https://github.com/barrosflavio/api_simples_go
+- calculadora_go: https://gitea.phpense.com/DIO/calculadora_go
