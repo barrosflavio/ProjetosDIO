@@ -31,6 +31,12 @@ Clicando no link verá somente os repositório referentes a linguagem em questã
 - [Desafio 1](https://gitea.phpense.com/DIO/Desafio1_Ruby)
 - [Calculadora ruby](https://gitea.phpense.com/DIO/Calculadora_Ruby)
 - [Desafios Ruby 1 a 3](https://gitea.phpense.com/DIO/Solucoes_Desafio_de_Codigo_Ruby_DIO)
+- [Potencia em Ruby](https://gitea.phpense.com/DIO/desafio_potencia_ruby)
+- [Consulta CPF](https://gitea.phpense.com/DIO/consulta_cpf_ruby)
+- [Mercado POO Ruby](https://gitea.phpense.com/DIO/Projeto_loja_DIO_Ruby)
+- [Blog Rails](https://gitea.phpense.com/DIO/blog_rails_sem_base_alguma)
+- [Regex Whatsapp](https://gitea.phpense.com/DIO/regex_whatsapp_DIO)
+- [Nokogiri Lib](https://gitea.phpense.com/DIO/ruby_nokogiri_lib)
 
 ## 🐹 Go Developer
 - [Ebulicao Go](https://gitea.phpense.com/DIO/ebulicao_go)
