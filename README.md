@@ -30,5 +30,8 @@ Caso tenha caido aqui da DIO, procure o projeto correspondente abaixo 👇
 - [API Simples](https://github.com/barrosflavio/api_simples_go)
 - [Calculadora](https://gitea.phpense.com/DIO/calculadora_go)
 
+## 🐋 Docker Fundamentals
+- [Aplicação WEB](https://github.com/barrosflavio/novo-docker-apache)
+- [Cluster Vangrant](https://gitea.phpense.com/DIO/docker-cluster-vangrant)
 ---
 
