@@ -13,6 +13,13 @@ Caso tenha caido aqui da DIO, procure o projeto correspondente abaixo 👇
 - Basta olhar a lista, clicar no link e acessar normalmente. 🚀
 - **💡DICA:  Use CTRL + F para buscar palavras nessa página.**
 
+Se preferir buscas mais precisas e organizadas com possibilidade de usar filtros acesse:
+- [DIO no Gitea](https://gitea.phpense.com/DIO)
+
+Estarei também deixando ao lado de cada linguagem um link com filtros já aplicados para meu Gitea.
+
+Clicando no link verá somente os repositório referentes a linguagem em questão!
+
 *#GithubSemTralha*
 
 ---
@@ -22,6 +29,8 @@ Caso tenha caido aqui da DIO, procure o projeto correspondente abaixo 👇
 
 ## 💎 Ruby Developer
 - [Desafio 1](https://gitea.phpense.com/DIO/Desafio1_Ruby)
+- [Calculadora ruby](https://gitea.phpense.com/DIO/Calculadora_Ruby)
+- [Desafios Ruby 1 a 3](https://gitea.phpense.com/DIO/Solucoes_Desafio_de_Codigo_Ruby_DIO)
 
 ## 🐹 Go Developer
 - [Ebulicao Go](https://gitea.phpense.com/DIO/ebulicao_go)
