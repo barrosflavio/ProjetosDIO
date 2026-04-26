@@ -9,9 +9,9 @@ Basta olhar a lista, clicar no link e acessar normalmente. 🚀
 
 ---
 
-## 🧠 Observação
+## ⚠️ Aviso
 Caso tenha caido aqui da DIO, procure o projeto correspondente abaixo 👇
-💡DICA:  Use CTRL + F para buscar palavras nessa página.
+- 💡DICA:  Use CTRL + F para buscar palavras nessa página.
 
 #GithubSemTralha
 
