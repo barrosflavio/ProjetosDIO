@@ -3,3 +3,6 @@ Este repositório apenas irá INDEXAR os links do meu Gitea ("Github" Selfhosted
 
 ## Flutter Specialist
 - flutter_demo: https://gitea.phpense.com/DIO/flutter_demo
+
+## Ruby Developer
+- Desafio1_Ruby: https://gitea.phpense.com/DIO/Desafio1_Ruby
