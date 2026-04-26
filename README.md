@@ -6,3 +6,7 @@ Este repositório apenas irá INDEXAR os links do meu Gitea ("Github" Selfhosted
 
 ## Ruby Developer
 - Desafio1_Ruby: https://gitea.phpense.com/DIO/Desafio1_Ruby
+
+## Go Developer
+- ebulicao_go: https://gitea.phpense.com/DIO/ebulicao_go
+- desafios_dio_2_3_golang: https://gitea.phpense.com/DIO/desafios_dio_2_3_golang
