@@ -23,7 +23,7 @@ Clicando no link verá somente os repositório referentes a linguagem em questã
 *#GithubSemTralha*
 
 ---
-## 🎯 .NET Developer
+## #️⃣🟣 .NET Developer
 - [estacionamento](https://gitea.phpense.com/DIO/desafio1-leonardo-buta/)
 
 ## 🎯 Flutter Specialist
